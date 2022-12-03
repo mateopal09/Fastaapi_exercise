@@ -4,13 +4,10 @@ from datetime import date
 from typing import Optional
 
 
-
 #Pydantic
 from pydantic import BaseModel
 from pydantic import EmailStr
 from pydantic import Field
-
-
 
 
 #fastapi
@@ -27,16 +24,11 @@ class UserBase(BaseModel):
 class UserLogin(UserBase):
     password : str = Field(
         ...,
-        min_length=8
+        min_length=8,
+        max_length=20
     )
 
 class User(UserBase):
-    user_id : UUID = Field(...)
-    email : EmailStr = Field(...)
-    password : str = Field(
-        ...,
-        min_length=8
-    )
     first_name : str = Field(
         ...,
         min_length=1,
