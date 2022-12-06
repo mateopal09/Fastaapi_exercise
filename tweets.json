@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "string",
+        "created_at": "2022-12-06 11:24:15.878288",
+        "updated_at": "2022-12-06 16:24:20.337000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user@example.com",
+            "first_name": "string",
+            "last_name": "string",
+            "birth_date": "2022-12-06"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "Este es mi primer ejemplo",
+        "created_at": "2022-12-06 11:24:15.878288",
+        "updated_at": "2022-12-06 17:06:48.167000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "matep@example.com",
+            "first_name": "Mateo ",
+            "last_name": "Palom\u00e1",
+            "birth_date": "2022-12-06"
+        }
+    }
+]
