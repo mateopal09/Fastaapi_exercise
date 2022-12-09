@@ -1,15 +1,15 @@
 [
     {
         "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-        "content": "string",
-        "created_at": "2022-12-06 11:24:15.878288",
-        "updated_at": "2022-12-06 16:24:20.337000+00:00",
+        "content": "Funciona, para actualizar",
+        "created_at": "2022-12-09 17:22:09.911668",
+        "updated_at": "2022-12-09 22:22:14.314000+00:00",
         "by": {
             "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
             "email": "user@example.com",
             "first_name": "string",
             "last_name": "string",
-            "birth_date": "2022-12-06"
+            "birth_date": "2022-12-09"
         }
     },
     {

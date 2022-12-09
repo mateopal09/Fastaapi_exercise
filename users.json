@@ -1,11 +1,11 @@
 [
     {
         "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-        "email": "mateo@example.com",
-        "first_name": "mateo",
-        "last_name": "paloma",
-        "birth_date": "2022-12-06",
-        "password": "holasoymate"
+        "email": "elcarlos@example.com",
+        "first_name": "comoes",
+        "last_name": "string",
+        "birth_date": "2022-12-09",
+        "password": "stringst"
     },
     {
         "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
